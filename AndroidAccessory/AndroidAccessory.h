@@ -17,7 +17,8 @@
 #ifndef __AndroidAccessory_h__
 #define __AndroidAccessory_h__
 
-//Kenichi Yoshida
+//Kenichi Yoshida patch for Arduino 1.0
+//2012/01/31
 //#include "WProgram.h"
 #include "Arduino.h"
 
